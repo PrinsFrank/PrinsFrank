@@ -1,3 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=PrinsFrank&count_private=true&include_all_commits=true)
+Hi!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrinsFrank&layout=compact)
+I am Frank Prins, A 27 year old PHP developer from the Netherlands, currently employed as a Senior PHP developer at Superscanner.
+
