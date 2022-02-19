@@ -1,0 +1,14 @@
+name: Update this repo's README
+
+on:
+  schedule:
+    - cron: 5 20 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://prinsfrank.nl/feed.xml
+          readme-section: feed
