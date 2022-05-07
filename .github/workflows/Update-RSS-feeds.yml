@@ -12,4 +12,4 @@ jobs:
         with:
           feed-url: https://prinsfrank.nl/feed.xml
           readme-section: feed
-          empty-comits: 'false'
+          empty-commits: 'false'
