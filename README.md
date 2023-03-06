@@ -1,6 +1,6 @@
 Hi!
 
-I am Frank Prins, A 28 year engineer from the Netherlands, currently employed as a Senior PHP developer at Temper.
+I am Frank Prins, A 28 year old engineer from the Netherlands, currently employed as a Senior PHP developer at Temper.
 Besides travelling and working on science experiments, I like to work on open source projects.
 
 I also maintain a bliki at [prinsfrank.nl](https://prinsfrank.nl), where I write about my daily encounters. You can see my 5 most recent posts below;
