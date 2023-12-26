@@ -13,3 +13,5 @@ I also maintain a bliki at [prinsfrank.nl](https://prinsfrank.nl), where I write
 * [How to write decoupled unit tests in Laravel](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2022&#x2F;09&#x2F;20&#x2F;How-to-write-decoupled-unit-tests-in-Laravel)
 * [Visiting the only nuclear waste storage facility of the Netherlands](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2022&#x2F;09&#x2F;12&#x2F;Visiting-the-only-nuclear-waste-storage-facility-of-the-Netherlands)
 <!--END_SECTION:feed-->
+
+![](badge.svg)
