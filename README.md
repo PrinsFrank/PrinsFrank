@@ -5,8 +5,6 @@ Besides travelling and working on science experiments, I like to work on open so
 
 I also maintain a bliki at [prinsfrank.nl](https://prinsfrank.nl), where I write about my daily encounters. You can see my 5 most recent posts below;
 
-![https://prinsfrank.nl](badge.svg)
-
 <!--START_SECTION:feed-->
 * [A.G.A.I.N.‽ Framework for thorough bug-fixing](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2023&#x2F;08&#x2F;28&#x2F;AGAIN_Framework_for_thorough_bugfixing)
 * [You might be sending random people your users’ data](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2023&#x2F;06&#x2F;17&#x2F;You-might-be-sending-random-people-your-users-data)
