@@ -5,6 +5,7 @@ Besides travelling and working on science experiments, I like to work on open so
 
 I also maintain a bliki at [prinsfrank.nl](https://prinsfrank.nl), where I write about my daily encounters. You can see my 5 most recent posts below;
 
+![https://prinsfrank.nl](badge.svg)
 
 <!--START_SECTION:feed-->
 * [A.G.A.I.N.‽ Framework for thorough bug-fixing](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2023&#x2F;08&#x2F;28&#x2F;AGAIN_Framework_for_thorough_bugfixing)
@@ -13,5 +14,3 @@ I also maintain a bliki at [prinsfrank.nl](https://prinsfrank.nl), where I write
 * [How to write decoupled unit tests in Laravel](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2022&#x2F;09&#x2F;20&#x2F;How-to-write-decoupled-unit-tests-in-Laravel)
 * [Visiting the only nuclear waste storage facility of the Netherlands](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2022&#x2F;09&#x2F;12&#x2F;Visiting-the-only-nuclear-waste-storage-facility-of-the-Netherlands)
 <!--END_SECTION:feed-->
-
-![](badge.svg)
