@@ -13,6 +13,9 @@ I also maintain a bliki at [prinsfrank.nl](https://prinsfrank.nl), where I write
 * [Back on Svalbard](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2023&#x2F;04&#x2F;09&#x2F;Back-in-Longyearbyen-on-Svalbard)
 <!--END_SECTION:feed-->
 
+<details>
+    <summary>List of packages</summary>
+
 | Title                                                                                                                             | Description                                | Active |                                                                                          |
 |-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------|------------------------------------------------------------------------------------------|
 | [prinsfrank/standards](https://packagist.org/packages/prinsfrank/standards)                                                       | A collection of standards as enums         | ✅      | ![](https://img.shields.io/packagist/dt/prinsfrank/standards)                            |
@@ -33,3 +36,5 @@ I also maintain a bliki at [prinsfrank.nl](https://prinsfrank.nl), where I write
 | [prinsfrank/larastan-architecture-rules](https://packagist.org/packages/prinsfrank/larastan-architecture-rules)                   | Architecture rules for Larastan            | ✅      | ![](https://img.shields.io/packagist/dt/prinsfrank/larastan-architecture-rules)          |
 | [prinsfrank/arithmetic-operations-bcmath](https://packagist.org/packages/prinsfrank/arithmetic-operations-bcmath)                 | Arithmetic operations in BCMath            | ✅      | ![](https://img.shields.io/packagist/dt/prinsfrank/arithmetic-operations-bcmath)         |
 | [prinsfrank/arithmetic-operations-implementation](https://packagist.org/packages/prinsfrank/arithmetic-operations-implementation) | Virtual package for arithmetic operations  | ✅      | ![](https://img.shields.io/badge/virtual-8A2BE2)                                         |
+
+</details>
