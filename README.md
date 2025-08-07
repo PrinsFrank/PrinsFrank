@@ -6,11 +6,11 @@ Besides travelling and working on science experiments, I like to work on open so
 I also maintain a bliki at [prinsfrank.nl](https://prinsfrank.nl), where I write about my daily encounters. You can see my 5 most recent posts below;
 
 <!--START_SECTION:feed-->
+* [The Treasury, Petra - recreated with LEGO](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2025&#x2F;08&#x2F;03&#x2F;The-Treasury-Petra-Recreated-With-LEGO)
 * [You can now find me on YouTube](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2024&#x2F;07&#x2F;18&#x2F;Now-also-on-youtube)
 * [Kryptos Cypher (1)](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2024&#x2F;05&#x2F;07&#x2F;Kryptos-cypher-does-RQ-mean-e-for-k4)
 * [Intro to Dependency Injection in PHP](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2024&#x2F;05&#x2F;03&#x2F;Intro-to-dependency-injection-in-PHP)
 * [The McDonald’s that wasn’t](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2024&#x2F;03&#x2F;04&#x2F;The_McDonalds_that_wasnt)
-* [Building an all-sky camera](https:&#x2F;&#x2F;prinsfrank.nl&#x2F;2024&#x2F;02&#x2F;13&#x2F;Building-an-all-sky-camera)
 <!--END_SECTION:feed-->
 
 <details>
